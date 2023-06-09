@@ -1,1 +1,1 @@
-# proj_new_1
+# mini_projects
